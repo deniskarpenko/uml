@@ -1,0 +1,16 @@
+{
+    "name": "deniskarpenko/uml",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denys Karpenko",
+            "email": "new.den84@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+         "php": "^8.0.2"
+    }
+}
